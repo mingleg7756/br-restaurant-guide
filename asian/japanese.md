@@ -1,8 +1,8 @@
 # Bay Ridge Restaurant Guide
-## Asian --> Japanese
+## Japanese
 ---
 Select a restaurant:
-## Bayridge Sushi http://www.brsushi.com/
+## [Bayridge Sushi](http://www.brsushi.com/)
+## [Sushi Inoue](http://www.sushiinoue.com/)
 ---
-Back to Asian  
-Start Over
+[Start Over](../home.md)
